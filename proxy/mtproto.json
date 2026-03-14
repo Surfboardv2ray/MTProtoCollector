@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "r1.newr1.co.uk",
+            "port": "85",
+            "secret": "FgMBAgABAAH8AxOG4kw63Q==",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "free-mtproto.flexiblenet.org",
+            "port": "443",
+            "secret": "4da47f00c2291d55696fa3ae954ffd78",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=free-mtproto.flexiblenet.org&port=443&secret=4da47f00c2291d55696fa3ae954ffd78&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "195.254.165.251",
+            "port": "25565",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+    }
+]
