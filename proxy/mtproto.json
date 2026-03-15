@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "free-mtproto.flexiblenet.org",
+            "port": "443",
+            "secret": "4da47f00c2291d55696fa3ae954ffd78",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=free-mtproto.flexiblenet.org&port=443&secret=4da47f00c2291d55696fa3ae954ffd78&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    }
+]
