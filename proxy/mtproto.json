@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.237.95.231",
+            "server": "av.extravpn.info",
             "port": "443",
-            "secret": "ee4571396297582727452bf660db01b789676f6f676c652e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "fd29b8a449151cc37f8c27ebcdd0d43@LyricPixelArt",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=av.extravpn.info&port=443&secret=fd29b8a449151cc37f8c27ebcdd0d43@LyricPixelArt&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "195.254.165.243",
-            "port": "25565",
-            "secret": "dd79e344818749bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "tg-proxy.xyz",
+            "port": "443",
+            "secret": "ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d@LyricPixelArt",
+            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddfb"
         },
-        "link": "https:\/\/t.me\/proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d@LyricPixelArt&@ProxysHUB|\ud83c\uddf1\ud83c\uddfb"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "tg-proxy.xyz",
+            "port": "443",
+            "secret": "ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddfb"
+        },
+        "link": "https:\/\/t.me\/proxy?server=tg-proxy.xyz&port=443&secret=ee3332394b46a676b9d61d9a52517babd1676f6f676c652e636f6d&@ProxysHUB|\ud83c\uddf1\ud83c\uddfb"
     }
 ]
