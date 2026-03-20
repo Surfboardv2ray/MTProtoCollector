@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "av.extravpn.info",
+            "port": "443",
+            "secret": "fd29b8a449151cc37f8c27ebcdd0d43d",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=av.extravpn.info&port=443&secret=fd29b8a449151cc37f8c27ebcdd0d43d&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    }
+]
