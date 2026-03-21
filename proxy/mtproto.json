@@ -4,11 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "185.237.95.231",
+            "server": "proxy.fastexte.pro",
             "port": "443",
-            "secret": "ee4571396297582727452bf660db01b789676f6f676c652e636f6d",
+            "secret": "8b1c248e1c32f5925a98d0d9decfc1a4",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=proxy.fastexte.pro&port=443&secret=8b1c248e1c32f5925a98d0d9decfc1a4&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "av.extravpn.info",
+            "port": "443",
+            "secret": "fd29b8a449151cc37f8c27ebcdd0d43d",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=av.extravpn.info&port=443&secret=fd29b8a449151cc37f8c27ebcdd0d43d&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "5.101.82.166",
+            "port": "7878",
+            "secret": "48f739d003f42d13dd318bcbd5757d4b|",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=5.101.82.166&port=7878&secret=48f739d003f42d13dd318bcbd5757d4b|&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
