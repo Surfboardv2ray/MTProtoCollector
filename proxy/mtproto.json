@@ -16,11 +16,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "5.78.190.71",
-            "port": "4455",
-            "secret": "ddbe3f0adb4ae53a594fd5fec4dd00287f",
+            "server": "142.54.189.106",
+            "port": "443",
+            "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
             "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=5.78.190.71&port=4455&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=142.54.189.106&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
