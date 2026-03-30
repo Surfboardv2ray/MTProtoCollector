@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "93.123.30.203",
+            "server": "204.168.176.214",
             "port": "443",
-            "secret": "6356ebb33a57b6deda8a1c3cf2aee557",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=93.123.30.203&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=204.168.176.214&port=443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "138.124.70.86",
+            "server": "mt.skadi.help",
             "port": "443",
-            "secret": "6356ebb33a57b6deda8a1c3cf2aee557",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+            "secret": "dd382a00f48a0592ff49a30aa55017cc09",
+            "name": "@ProxysHUB|\ud83c\uddec\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=138.124.70.86&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=mt.skadi.help&port=443&secret=dd382a00f48a0592ff49a30aa55017cc09&@ProxysHUB|\ud83c\uddec\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "138.124.72.27",
-            "port": "443",
-            "secret": "6356ebb33a57b6deda8a1c3cf2aee557",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\udded"
+            "server": "https.spsctr.info.",
+            "port": "25565",
+            "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
+            "name": "@ProxysHUB|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=138.124.72.27&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557&@ProxysHUB|\ud83c\udde8\ud83c\udded"
+        "link": "https:\/\/t.me\/proxy?server=https.spsctr.info.&port=25565&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxysHUB|\ud83d\udea9"
     }
 ]
