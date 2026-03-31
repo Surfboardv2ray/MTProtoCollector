@@ -4,11 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "138.201.54.122",
-            "port": "443",
-            "secret": "7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "linkera.948141.xyz",
+            "port": "1337",
+            "secret": "dd26b68f6bd3fe200284f654574260f09b",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=138.201.54.122&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=linkera.948141.xyz&port=1337&secret=dd26b68f6bd3fe200284f654574260f09b&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "mtproto.959105.xyz",
+            "port": "443",
+            "secret": "dd36ab242aef22c2170c1e86aa984585ae",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=mtproto.959105.xyz&port=443&secret=dd36ab242aef22c2170c1e86aa984585ae&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
     }
 ]
