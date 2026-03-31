@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "mt.skadi.help",
-            "port": "443",
-            "secret": "dd382a00f48a0592ff49a30aa55017cc09",
-            "name": "@ProxysHUB|\ud83c\uddec\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=mt.skadi.help&port=443&secret=dd382a00f48a0592ff49a30aa55017cc09&@ProxysHUB|\ud83c\uddec\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "142.54.189.106",
             "port": "443",
             "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
