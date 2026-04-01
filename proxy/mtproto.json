@@ -1,14 +1,1 @@
-[
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "proxytop.space",
-            "port": "443",
-            "secret": "7d793037a0760186574b0282f2f435e7",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=proxytop.space&port=443&secret=7d793037a0760186574b0282f2f435e7&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
-    }
-]
+[]
