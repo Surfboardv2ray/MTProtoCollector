@@ -1,14 +1,1 @@
-[
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "prxygo.shop",
-            "port": "443",
-            "secret": "48181acd22b3edaebc8a447868a7dfcb",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=prxygo.shop&port=443&secret=48181acd22b3edaebc8a447868a7dfcb&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
-    }
-]
+[]
