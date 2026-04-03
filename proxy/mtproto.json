@@ -16,11 +16,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "rkn.tg",
-            "port": "1337",
-            "secret": "dda2d3fa639a6ddcf8d6d1c5913d001531",
-            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+            "server": "107.150.34.100",
+            "port": "443",
+            "secret": "7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=107.150.34.100&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
