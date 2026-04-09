@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "107.150.34.100",
+            "port": "443",
+            "secret": "7gnbgVpt",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=107.150.34.100&port=443&secret=7gnbgVpt&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+    }
+]
