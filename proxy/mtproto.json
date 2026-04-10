@@ -6,18 +6,6 @@
         "query": {
             "server": "95.216.178.41",
             "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c2372",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=95.216.178.41&port=8443&secret=dd104462821249bd7ac519130220c2372&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "95.216.178.41",
-            "port": "8443",
             "secret": "dd104462821249bd7ac519130220c25d09",
             "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
