@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "brookb631-82e07f23.proxytg.ink",
-            "port": "443",
-            "secret": "f6fe059664c24962c99fbcc32553249e",
-            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=brookb631-82e07f23.proxytg.ink&port=443&secret=f6fe059664c24962c99fbcc32553249e&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "92.118.234.215",
             "port": "443",
             "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
