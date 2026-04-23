@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "80.241.216.110",
+            "port": "443",
+            "secret": "5baea70d27e7a9d26d9f20ab060fb4f3",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=80.241.216.110&port=443&secret=5baea70d27e7a9d26d9f20ab060fb4f3&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+    }
+]
