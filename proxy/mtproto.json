@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "92.118.234.215",
+            "port": "443",
+            "secret": "dddb9b5",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        },
+        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b5&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "92.118.234.215",
+            "port": "443",
+            "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        },
+        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+    }
+]
