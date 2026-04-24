@@ -4,23 +4,25 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "116.203.134.165",
-            "port": "443",
-            "secret": "ee636c6f7564666c6172652e636f6db6",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "hju.xdfyyy.xyz",
+            "port": "14025",
+            "secret": "feff39bcddb62859ade093fcad935858",
+            "channel": "@baicai_dev",
+            "name": "@ProxysHUB|\ud83c\uddf2\ud83c\uddfe"
         },
-        "link": "https:\/\/t.me\/proxy?server=116.203.134.165&port=443&secret=ee636c6f7564666c6172652e636f6db6&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=hju.xdfyyy.xyz&port=14025&secret=feff39bcddb62859ade093fcad935858&@ProxysHUB|\ud83c\uddf2\ud83c\uddfe"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxy.proxymtproto.net",
+            "server": "beg.e-spectacular.ru",
             "port": "443",
-            "secret": "dd97caa3c6888366f26b12f994f02ecf1a",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "ee988e08f0bbc94a9076c70588c62a4e896265672e652d73706563746163756c61722e7275",
+            "channel": "@baicai_dev",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxy.proxymtproto.net&port=443&secret=dd97caa3c6888366f26b12f994f02ecf1a&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=beg.e-spectacular.ru&port=443&secret=ee988e08f0bbc94a9076c70588c62a4e896265672e652d73706563746163756c61722e7275&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
     }
 ]
