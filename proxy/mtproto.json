@@ -6,21 +6,21 @@
         "query": {
             "server": "92.118.234.215",
             "port": "443",
-            "secret": "dddb9b5",
+            "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
             "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
         },
-        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b5&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "92.118.234.215",
+            "server": "proxytg.live",
             "port": "443",
-            "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+            "secret": "ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        "link": "https:\/\/t.me\/proxy?server=proxytg.live&port=443&secret=ee347358dc309fbf96304b28460ef7cd7a70726f787974672e6c697665&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
     }
 ]
