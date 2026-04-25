@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "win.sosproxy.space",
+            "port": "443",
+            "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "92.118.234.215",
             "port": "443",
             "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
@@ -16,11 +28,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxium.rest",
+            "server": "65.21.58.190",
             "port": "443",
-            "secret": "a665a45920422f9d417e4867efdc4fb8",
-            "name": "@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8&@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+        "link": "https:\/\/t.me\/proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
