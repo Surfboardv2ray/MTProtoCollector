@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "92.118.234.215",
+            "server": "168.222.254.175",
             "port": "443",
-            "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+            "secret": "ec4fb4c5dd112ac95a0aaa51e1bd2745",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        "link": "https:\/\/t.me\/proxy?server=168.222.254.175&port=443&secret=ec4fb4c5dd112ac95a0aaa51e1bd2745&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.21.58.190",
-            "port": "443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "80.66.81.27",
+            "port": "5443",
+            "secret": "ee1f460f3afac0e815fac861a7ef42d6056d736b2e73656e6b61706f706b612e7275",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.21.58.190&port=443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=80.66.81.27&port=5443&secret=ee1f460f3afac0e815fac861a7ef42d6056d736b2e73656e6b61706f706b612e7275&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "204.168.149.51",
+            "port": "443",
+            "secret": "b3f0c7f6af7dc2dc2e9c80d0d80e8162",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=204.168.149.51&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
