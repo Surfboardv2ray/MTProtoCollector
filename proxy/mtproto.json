@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.109.213.227",
-            "port": "65535",
-            "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "157.90.124.2",
+            "port": "4455",
+            "secret": "dd10462821249bd7ac519130220c25d09xbbdiduexcsggzgv",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.109.213.227&port=65535&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd10462821249bd7ac519130220c25d09xbbdiduexcsggzgv&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxium.rest",
-            "port": "443",
-            "secret": "a665a45920422f9d417e4867efdc4fb8jsooscx",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "157.90.124.2",
+            "port": "4455",
+            "secret": "dd10462821249bd7ac519130220c25d09xbbdiduexcsgguhfd",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8jsooscx&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd10462821249bd7ac519130220c25d09xbbdiduexcsgguhfd&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "157.90.124.2",
+            "port": "4455",
+            "secret": "dd10462821249bd7ac519130220c25d09xbbdiduexcsggvgrr",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd10462821249bd7ac519130220c25d09xbbdiduexcsggvgrr&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
