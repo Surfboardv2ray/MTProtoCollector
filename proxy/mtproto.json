@@ -10,5 +10,29 @@
             "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
         "link": "https:\/\/t.me\/proxy?server=95.216.178.41&port=8443&secret=dd104462821249bd7ac519130220c25p02cccvvbb&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "proxium.rest",
+            "port": "443",
+            "secret": "a665a45920422f9d417e4867efdc4fb8jsoosowppejkaoappwuw72i",
+            "name": "@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8jsoosowppejkaoappwuw72i&@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "proxium.rest",
+            "port": "443",
+            "secret": "a665a45920422f9d417e4867efdc4fb8",
+            "name": "@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8&@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
     }
 ]
