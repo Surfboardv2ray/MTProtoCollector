@@ -4,38 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "new.tg-proxyes.ru",
-            "port": "443",
-            "secret": "078983aa56fd433d1366546ec9bc6517",
-            "channel": "@baicai_dev",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddff"
+            "server": "91.107.166.142",
+            "port": "8888",
+            "secret": "7rEMFbn2Wa4rnx5kbJx8H0BzMy5hbWF6b25hd3MuY29t955",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=new.tg-proxyes.ru&port=443&secret=078983aa56fd433d1366546ec9bc6517&@ProxysHUB|\ud83c\udde8\ud83c\uddff"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "rawmilk.voltlab.su",
-            "port": "443",
-            "secret": "eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375",
-            "channel": "@baicai_dev",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=rawmilk.voltlab.su&port=443&secret=eecacfc4d512f6456f443148a9ad484be77261776d696c6b2e766f6c746c61622e7375&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "russia.publiclg.shop",
-            "port": "8443",
-            "secret": "dd79e7010200010007f0030386e24c3add",
-            "channel": "@baicai_dev",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=russia.publiclg.shop&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=91.107.166.142&port=8888&secret=7rEMFbn2Wa4rnx5kbJx8H0BzMy5hbWF6b25hd3MuY29t955&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
