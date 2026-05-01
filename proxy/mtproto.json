@@ -4,23 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxium.rest",
+            "server": "ultra.telehelp.top",
             "port": "443",
-            "secret": "a665a45920422f9d41",
-            "name": "@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+            "secret": "ee1d36cba6cc6ae2eb779806189b95efb864726976652e676f6f676c652e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d41&@ProxysHUB|\ud83c\uddf2\ud83c\udde9"
+        "link": "https:\/\/t.me\/proxy?server=ultra.telehelp.top&port=443&secret=ee1d36cba6cc6ae2eb779806189b95efb864726976652e676f6f676c652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "2.26.125.172",
+            "server": "65.21.58.190",
             "port": "443",
-            "secret": "667161e1e8616dd33fdf8e43e40784d9",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "dd164651408131120715094311313435467180161510bd7ac619530221c4",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=2.26.125.172&port=443&secret=667161e1e8616dd33fdf8e43e40784d9&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=65.21.58.190&port=443&secret=dd164651408131120715094311313435467180161510bd7ac619530221c4&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
