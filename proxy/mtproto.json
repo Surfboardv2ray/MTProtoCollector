@@ -4,11 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "62.238.0.202",
-            "port": "4455",
-            "secret": "dd104462821249bd7ac519130220c25d09",
+            "server": "proxy1.zeleniyslonik.guru",
+            "port": "443",
+            "secret": "eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=proxy1.zeleniyslonik.guru&port=443&secret=eef75e1d0f1eaface44bd3e2339697827770726f7879312e7a656c656e6979736c6f6e696b2e67757275&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "77.42.79.76",
+            "port": "4455",
+            "secret": "dd104462821249bd7ac519130220c25dfc",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=77.42.79.76&port=4455&secret=dd104462821249bd7ac519130220c25dfc&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
