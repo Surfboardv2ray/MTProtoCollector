@@ -6,21 +6,9 @@
         "query": {
             "server": "157.90.124.2",
             "port": "4455",
-            "secret": "dd10bzzhaosisggfiiptykngffgghgflalskdsdff",
+            "secret": "dd10nbzbzzhmmnvvxswdcvhgfd",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd10bzzhaosisggfiiptykngffgghgflalskdsdff&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "157.90.124.2",
-            "port": "4455",
-            "secret": "dd10bzzhaosisgfiiptykngffgghflalkdsdff",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd10bzzhaosisgfiiptykngffgghflalkdsdff&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd10nbzbzzhmmnvvxswdcvhgfd&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
