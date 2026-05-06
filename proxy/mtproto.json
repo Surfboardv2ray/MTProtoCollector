@@ -6,10 +6,10 @@
         "query": {
             "server": "92.118.234.215",
             "port": "443",
-            "secret": "dfjfziyd69d855w58w85w58e69s59soeyodoy85w58285sydy",
+            "secret": "dddb9b51b5ce9a2820ff62d348cb23f1b9",
             "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
         },
-        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dfjfziyd69d855w58w85w58e69s59soeyodoy85w58285sydy&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
     },
     {
         "scheme": "https",
@@ -19,6 +19,7 @@
             "server": "5.78.207.126",
             "port": "443",
             "secret": "dd00112233445566778899aabbccddeeff",
+            "user": "@vpn1pack",
             "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=5.78.207.126&port=443&secret=dd00112233445566778899aabbccddeeff&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
