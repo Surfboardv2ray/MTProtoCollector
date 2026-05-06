@@ -4,12 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "wxp2026.xyz",
+            "server": "proxium.rest",
             "port": "443",
-            "secret": "ee659157f923726a8feb52e4ec74810fa8652e6d61696c2e7275",
-            "channel": "@baicai_dev",
-            "name": "@ProxysHUB|\ud83c\udde6\ud83c\uddf9"
+            "secret": "a665a4602995055182952e4867efdc4f",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=wxp2026.xyz&port=443&secret=ee659157f923726a8feb52e4ec74810fa8652e6d61696c2e7275&@ProxysHUB|\ud83c\udde6\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a4602995055182952e4867efdc4f&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
