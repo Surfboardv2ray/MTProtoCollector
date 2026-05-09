@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.12.79.244",
-            "port": "443",
-            "secret": "d282b\u0645\u0635\u0635\u06a9\u062b\u0686\u0633dleelkro\u0632\u0686\u0686\u0634\u06af51913\u06a9\u0633ssu\u0645\u06ccl",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "89.169.13.58",
+            "port": "444",
+            "secret": "ee111122223333444455556666777788886b657368612e6d79726b612e6469676974616c",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.12.79.244&port=443&secret=d282b\u0645\u0635\u0635\u06a9\u062b\u0686\u0633dleelkro\u0632\u0686\u0686\u0634\u06af51913\u06a9\u0633ssu\u0645\u06ccl&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=89.169.13.58&port=444&secret=ee111122223333444455556666777788886b657368612e6d79726b612e6469676974616c&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "157.90.124.2",
-            "port": "4455",
-            "secret": "dd1046282xnxnchchdbdbchdhdrvfvbc124duhxhdpiynvfbbxfu\u0631\u0630\u0630\u0628\u0631\u0631djdhffhdhebebfhfbffchchc",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "proxy.yard-tg-bot.ru",
+            "port": "443",
+            "secret": "ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=dd1046282xnxnchchdbdbchdhdrvfvbc124duhxhdpiynvfbbxfu\u0631\u0630\u0630\u0628\u0631\u0631djdhffhdhebebfhfbffchchc&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=proxy.yard-tg-bot.ru&port=443&secret=ee1cfe2c07741ef6c9d9dde94a7f14a3db79616e6465782e7275&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "proxium.rest",
+            "port": "443",
+            "secret": "ujj009d5fyr5fe",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=ujj009d5fyr5fe&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
