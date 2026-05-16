@@ -6,21 +6,33 @@
         "query": {
             "server": "157.90.124.2",
             "port": "4455",
-            "secret": "kdpaosjxjfuigfnsnxbduojg",
+            "secret": "hge",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=kdpaosjxjfuigfnsnxbduojg&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=hge&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "connect.tproxyru.live",
-            "port": "8980",
-            "secret": "ee10446282sse24jsjshsn9hcjbbdjkdjdbjdjd7ac519130220c25djsjssjvsjsb0.9617669746f.eb2e7",
-            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+            "server": "157.90.124.2",
+            "port": "4455",
+            "secret": "kdhdhdpdkxjxzcnhgnkgf",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=connect.tproxyru.live&port=8980&secret=ee10446282sse24jsjshsn9hcjbbdjkdjdbjdjd7ac519130220c25djsjssjvsjsb0.9617669746f.eb2e7&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=kdhdhdpdkxjxzcnhgnkgf&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "157.90.124.2",
+            "port": "4455",
+            "secret": "ushdj9s",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=157.90.124.2&port=4455&secret=ushdj9s&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
