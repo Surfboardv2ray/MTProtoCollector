@@ -1,14 +1,1 @@
-[
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "proxium.rest",
-            "port": "443",
-            "secret": "ju7itf66tfrer54r54t44r6ry65tt465655fnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfn",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=ju7itf66tfrer54r54t44r6ry65tt465655fnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfnfn&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-    }
-]
+[]
