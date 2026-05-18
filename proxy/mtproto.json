@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "92.118.234.215",
+            "server": "167.235.249.231",
             "port": "443",
-            "secret": "kfs77292929929278",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
-        },
-        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=kfs77292929929278&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "92.118.234.215",
-            "port": "443",
-            "secret": "kfs77292929929243",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
-        },
-        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=kfs77292929929243&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "172.86.95.195",
-            "port": "443",
-            "secret": "eeb30612d6f0fac137fa363faee6afe3377262632e7275",
+            "secret": "dd104462821249bd7ac519130220c25d09",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=172.86.95.195&port=443&secret=eeb30612d6f0fac137fa363faee6afe3377262632e7275&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=167.235.249.231&port=443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "178.105.161.83",
+            "port": "443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=178.105.161.83&port=443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "2.26.74.135",
+            "port": "443",
+            "secret": "eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=2.26.74.135&port=443&secret=eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
