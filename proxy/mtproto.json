@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "204.168.234.22",
+            "port": "2091",
+            "secret": "eeb20cb9211674db3d0248026d667bc7b67777772e697269626e6577732e6972tttt",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=204.168.234.22&port=2091&secret=eeb20cb9211674db3d0248026d667bc7b67777772e697269626e6577732e6972tttt&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    }
+]
