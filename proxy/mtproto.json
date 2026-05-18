@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ak.yourline.online",
+            "server": "92.118.234.215",
             "port": "443",
-            "secret": "eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "kfs77292929929278",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
         },
-        "link": "https:\/\/t.me\/proxy?server=ak.yourline.online&port=443&secret=eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=kfs77292929929278&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "49.12.79.244",
+            "server": "92.118.234.215",
             "port": "443",
-            "secret": "jdkdodkckxkckckfkkckekdkckckkckckcockckckkckckckclclclocofofofoofofofofoflkfkckckcodkxncboofpcovosl",
+            "secret": "kfs77292929929243",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+        },
+        "link": "https:\/\/t.me\/proxy?server=92.118.234.215&port=443&secret=kfs77292929929243&@ProxysHUB|\ud83c\udde8\ud83c\uddfe"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "172.86.95.195",
+            "port": "443",
+            "secret": "eeb30612d6f0fac137fa363faee6afe3377262632e7275",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=49.12.79.244&port=443&secret=jdkdodkckxkckckfkkckekdkckckkckckcockckckkckckckclclclocofofofoofofofofoflkfkckckcodkxncboofpcovosl&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=172.86.95.195&port=443&secret=eeb30612d6f0fac137fa363faee6afe3377262632e7275&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
