@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "s.proxytg.space",
+            "port": "8443",
+            "secret": "eefefc4f17248e59437bb451447a9170b2732e70726f787974672e7370616365",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=s.proxytg.space&port=8443&secret=eefefc4f17248e59437bb451447a9170b2732e70726f787974672e7370616365&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    }
+]
