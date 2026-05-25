@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "s11.neo-trading.org",
+            "port": "993",
+            "secret": "ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6dxcxcxsbbbscxxxcv009876ss5454554s77665554544323",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=s11.neo-trading.org&port=993&secret=ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6dxcxcxsbbbscxxxcv009876ss5454554s77665554544323&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    }
+]
