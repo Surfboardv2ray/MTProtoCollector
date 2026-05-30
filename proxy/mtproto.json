@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "tg.capycore.ru",
+            "port": "443",
+            "secret": "27ebe852539fb8ec5f327c73262b8710",
+            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262b8710&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "nano.hatchcouk.ir.",
             "port": "8443",
             "secret": "7rxmK-bxqCiFE2zKBwrCnAJwYW5lbC55ZWt0YW5ldC5jb20=",
