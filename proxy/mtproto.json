@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "18.171.243.219",
-            "port": "80",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddec\ud83c\udde7"
+            "server": "mizanesghh.co.uk.",
+            "port": "85",
+            "secret": "FgMBAgABAAH8AxOG4kw63Q",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=18.171.243.219&port=80&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddec\ud83c\udde7"
+        "link": "https:\/\/t.me\/proxy?server=mizanesghh.co.uk.&port=85&secret=FgMBAgABAAH8AxOG4kw63Q&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.217.166.4",
-            "port": "16",
-            "secret": "ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d",
+            "server": "87.248.129.210",
+            "port": "4455",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
             "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=91.217.166.4&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=87.248.129.210&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "84.75.220.233",
-            "port": "8080",
-            "secret": "eeeb77a841838f9ca2e33ec92853118df363646e2e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "7372377377.ir.fulle7.info",
+            "port": "8443",
+            "secret": "EERighJJvXrFGRMCIMJk3Q==",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=84.75.220.233&port=8080&secret=eeeb77a841838f9ca2e33ec92853118df363646e2e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=7372377377.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJk3Q==&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
