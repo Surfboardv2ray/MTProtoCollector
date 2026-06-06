@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "37.27.192.10",
+            "server": "167.233.48.77",
             "port": "8443",
             "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=167.233.48.77&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "167.233.73.69",
+            "server": "78.47.129.193",
             "port": "8443",
             "secret": "dd104462821249bd7ac519130220c25d09",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=167.233.73.69&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=78.47.129.193&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "94.130.191.164",
-            "port": "8443",
-            "secret": "E",
+            "server": "sbs.asdjjhjasdj99.sbs",
+            "port": "443",
+            "secret": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=94.130.191.164&port=8443&secret=E&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=sbs.asdjjhjasdj99.sbs&port=443&secret=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
