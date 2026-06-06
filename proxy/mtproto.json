@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "167.233.48.77",
-            "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "moh.kingproxynewdomailasiatech.ink",
+            "port": "25565",
+            "secret": "FgMBAgABAAH8AxOG4kw63Q",
+            "name": "@ProxysHUB|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=167.233.48.77&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=moh.kingproxynewdomailasiatech.ink&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q&@ProxysHUB|\ud83d\udea9"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "78.47.129.193",
+            "server": "84.32.189.74",
             "port": "8443",
             "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=78.47.129.193&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=84.32.189.74&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "sbs.asdjjhjasdj99.sbs",
-            "port": "443",
-            "secret": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "185.8.104.135",
+            "port": "8443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=sbs.asdjjhjasdj99.sbs&port=443&secret=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
     }
 ]
