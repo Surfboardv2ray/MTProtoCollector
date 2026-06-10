@@ -4,30 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "proxy-vreexybot.vreexybots.shop",
-            "port": "443",
-            "secret": "ee87d24e171749156ccab4a08f52e12f9e7777772e636c6f7564666c6172652e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde6\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=proxy-vreexybot.vreexybots.shop&port=443&secret=ee87d24e171749156ccab4a08f52e12f9e7777772e636c6f7564666c6172652e636f6d&@ProxysHUB|\ud83c\udde6\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "portal.old-but-new.co.uk.",
-            "port": "443",
-            "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=portal.old-but-new.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "5.75.222.90",
             "port": "8443",
             "secret": "dd104462821249bd7ac519130220c25d09",
