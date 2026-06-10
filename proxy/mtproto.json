@@ -10,5 +10,29 @@
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=5.75.222.90&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "93.113.230.237",
+            "port": "443",
+            "secret": "dd21b8a3f9b356b446aca1b5058f907c16",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=93.113.230.237&port=443&secret=dd21b8a3f9b356b446aca1b5058f907c16&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "proxy-vreexybot.vreexybots.shop",
+            "port": "443",
+            "secret": "ee87d24e171749156ccab4a08f52e12f9e7777772e636c6f7564666c6172652e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=proxy-vreexybot.vreexybots.shop&port=443&secret=ee87d24e171749156ccab4a08f52e12f9e7777772e636c6f7564666c6172652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
