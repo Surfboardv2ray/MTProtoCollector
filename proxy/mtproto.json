@@ -16,11 +16,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "57.129.95.177",
-            "port": "8443",
-            "secret": "eed356aa530834cc536c6a79bd9300c0f463616e76612e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "bodobodo.co.uk.",
+            "port": "100",
+            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=57.129.95.177&port=8443&secret=eed356aa530834cc536c6a79bd9300c0f463616e76612e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=bodobodo.co.uk.&port=100&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
