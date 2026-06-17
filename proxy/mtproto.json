@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "2.ir.meli-n13.info",
-            "port": "8443",
-            "secret": "104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "form.quickdl.info",
+            "port": "22",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=2.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=form.quickdl.info&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83d\udea9"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "91.206.28.31",
-            "port": "1010",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "server": "167.233.101.58",
+            "port": "8080",
+            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=91.206.28.31&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=167.233.101.58&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "00002.ir.meli-n13.info",
-            "port": "8443",
-            "secret": "104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "blue.protocolsix.info",
+            "port": "22",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
+            "name": "@ProxysHUB|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=00002.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=blue.protocolsix.info&port=22&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20&@ProxysHUB|\ud83d\udea9"
     }
 ]
