@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "a.similemat.com",
-            "port": "12341",
-            "secret": "4826782609393fd7b2b1d119053738c6",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "178.104.33.209",
+            "port": "8443",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=4826782609393fd7b2b1d119053738c6&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=178.104.33.209&port=8443&secret=dd79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "167.233.148.123",
-            "port": "8443",
-            "secret": "dd79e344818749bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "87.229.56.15",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\udded\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=167.233.148.123&port=8443&secret=dd79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=87.229.56.15&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udded\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "87.248.129.49",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=87.248.129.49&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     }
 ]
