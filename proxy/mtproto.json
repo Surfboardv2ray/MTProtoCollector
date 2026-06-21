@@ -10,5 +10,17 @@
             "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=sv.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "a.similemat.com",
+            "port": "443",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+            "name": "@ProxysHUB|\ud83c\uddf5\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddf5\ud83c\uddf1"
     }
 ]
