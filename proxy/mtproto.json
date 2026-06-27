@@ -16,11 +16,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "New-Empire-On-World.ir.heazshddd.info",
-            "port": "88",
-            "secret": "ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\ud83c\udde9\ud83c\uddea|[Proxy",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "68.209.57.114",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=New-Empire-On-World.ir.heazshddd.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\ud83c\udde9\ud83c\uddea|[Proxy&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=68.209.57.114&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
