@@ -4,35 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "kala.golgoli1.co.uk",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "nims.dotadotnet.ir",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "box.lavazemi5.co.uk",
-            "port": "2053",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=box.lavazemi5.co.uk&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "rain.golgoli2.co.uk",
-            "port": "2096",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=rain.golgoli2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=nims.dotadotnet.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
