@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "edge1.guardora.pro",
+            "port": "443",
+            "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        },
+        "link": "https:\/\/t.me\/proxy?server=edge1.guardora.pro&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "sv4.just-money.co.uk",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
