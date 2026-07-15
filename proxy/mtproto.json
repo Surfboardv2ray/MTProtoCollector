@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ad6.arixo.shop",
+            "server": "supportsystemstatus.nestxcouk.ir",
             "port": "443",
-            "secret": "ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\udde6"
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=ad6.arixo.shop&port=443&secret=ee0655739ff0a111810d8529120d2071a66164332e617269786f2e73686f70&@ProxysHUB|\ud83c\uddfa\ud83c\udde6"
+        "link": "https:\/\/t.me\/proxy?server=supportsystemstatus.nestxcouk.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
@@ -28,11 +28,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "sentry.kovira2.ir",
+            "server": "cstudio.semiconductor.mistloop.ir",
             "port": "443",
-            "secret": "eeddff2c3537e11e359ad67a8fc3bbb8a06170617261742e636f6d",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
             "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=sentry.kovira2.ir&port=443&secret=eeddff2c3537e11e359ad67a8fc3bbb8a06170617261742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=cstudio.semiconductor.mistloop.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
