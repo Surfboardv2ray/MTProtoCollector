@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "edge1.guardora.pro",
-            "port": "443",
-            "secret": "8f3c7a1d4b92e6c51a7d0fb843c2e91f",
-            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+            "server": "65.21.246.84",
+            "port": "8443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=edge1.guardora.pro&port=443&secret=8f3c7a1d4b92e6c51a7d0fb843c2e91f&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=65.21.246.84&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "sv4.just-money.co.uk",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "65.21.255.222",
+            "port": "8443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=sv4.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=65.21.255.222&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "167.233.189.251",
+            "port": "8443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=167.233.189.251&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
