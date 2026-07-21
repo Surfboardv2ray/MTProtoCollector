@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.172-63.ir.",
-            "port": "8443",
-            "secret": "ee8b8238601de9360f332514afa56ada45626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=www.172-63.ir.&port=8443&secret=ee8b8238601de9360f332514afa56ada45626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "87.248.129.53",
-            "port": "15",
+            "server": "mini.lavazemi4.co.uk",
+            "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
             "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=87.248.129.53&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=mini.lavazemi4.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "168.119.142.46",
+            "server": "199.91.221.73",
+            "port": "8080",
+            "secret": "mgxsfhvdf353sadx4542mkjo4790tfcs2463xsgcs6755vhfxdxeeeeeeeeeeeee",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=199.91.221.73&port=8080&secret=mgxsfhvdf353sadx4542mkjo4790tfcs2463xsgcs6755vhfxdxeeeeeeeeeeeee&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "167.233.162.232",
             "port": "443",
-            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+            "secret": "ee111ef20f3ccfa243ad0d7e7af97f8f7c706c61792e676f6f676c652e636f6d",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=167.233.162.232&port=443&secret=ee111ef20f3ccfa243ad0d7e7af97f8f7c706c61792e676f6f676c652e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
