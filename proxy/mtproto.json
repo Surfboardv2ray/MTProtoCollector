@@ -4,35 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "m155m21111.ir.ir.ir.meli-n12.info",
-            "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09\ud83e\udd9c|[Proxy",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "admetrics.uadapp.meshzen.ir",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\udded"
         },
-        "link": "https:\/\/t.me\/proxy?server=m155m21111.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\ud83e\udd9c|[Proxy&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "7yhf7rhd171106g0977now6dh8uh8ih7ybx7h7hhh991m2.ir.meli-n13.info",
-            "port": "8443",
-            "secret": "104462821249bd7ac519130220c25d09\ud83e\udd9a|[Proxy",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=7yhf7rhd171106g0977now6dh8uh8ih7ybx7h7hhh991m2.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09\ud83e\udd9a|[Proxy&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "7hhh8uh8iix001m1.ir.ir.ir.meli-n12.info",
-            "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09\ud83d\udc26\u200d\ud83d\udd25|",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=7hhh8uh8iix001m1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\ud83d\udc26\u200d\ud83d\udd25|&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=admetrics.uadapp.meshzen.ir&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\udde8\ud83c\udded"
     }
 ]
