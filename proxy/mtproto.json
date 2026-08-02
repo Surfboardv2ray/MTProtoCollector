@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "starservers.ir",
-            "port": "443",
-            "secret": "ee6096b61e253810e5feea1b0d5f7a3098626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde8\ud83c\udded"
+            "server": "alan.proxy.doctor-alan.ir",
+            "port": "5562",
+            "secret": "f58a66e0f78297f0576f5c55ca5ca25d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=starservers.ir&port=443&secret=ee6096b61e253810e5feea1b0d5f7a3098626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde8\ud83c\udded"
+        "link": "https:\/\/t.me\/proxy?server=alan.proxy.doctor-alan.ir&port=5562&secret=f58a66e0f78297f0576f5c55ca5ca25d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "dash.mitivpn.co.uk",
-            "port": "25565",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83d\udea9"
+            "server": "star.talebi.co.uk",
+            "port": "2096",
+            "secret": "79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=dash.mitivpn.co.uk&port=25565&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=star.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "for.you.goooalir.co.uk",
+            "server": "love.ir.meli-n13.info",
             "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=love.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
