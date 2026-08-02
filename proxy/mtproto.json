@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "starservers.ir",
+            "port": "443",
+            "secret": "ee6096b61e253810e5feea1b0d5f7a3098626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\udded"
+        },
+        "link": "https:\/\/t.me\/proxy?server=starservers.ir&port=443&secret=ee6096b61e253810e5feea1b0d5f7a3098626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde8\ud83c\udded"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "dash.mitivpn.co.uk",
+            "port": "25565",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=dash.mitivpn.co.uk&port=25565&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "for.you.goooalir.co.uk",
+            "port": "8443",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    }
+]
