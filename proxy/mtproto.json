@@ -4,38 +4,37 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "31.41.33.114",
+            "server": "proxy.mdnk.fun",
             "port": "443",
-            "secret": "eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275",
+            "secret": "eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275",
             "channel": "@flat447",
-            "name": "@ProxysHUB|\ud83c\uddf5\ud83c\uddf1"
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275&@ProxysHUB|\ud83c\uddf5\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=proxy.mdnk.fun&port=443&secret=eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "94.156.102.150",
+            "server": "167.86.100.17",
             "port": "443",
-            "secret": "eee4d54b1209125ccba7199fbbe0ff76896769746875622e636f6d",
+            "secret": "eee26c8002852c6d9c74ec17c8532d2dfb636c6f7564666c6172652e636f6d",
             "channel": "@flat447",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=94.156.102.150&port=443&secret=eee4d54b1209125ccba7199fbbe0ff76896769746875622e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=167.86.100.17&port=443&secret=eee26c8002852c6d9c74ec17c8532d2dfb636c6f7564666c6172652e636f6d&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "135.181.74.178",
-            "port": "443",
-            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-            "channel": "@flat447",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "b.sub-ploter.co.uk",
+            "port": "22",
+            "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+            "name": "@ProxysHUB|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=b.sub-ploter.co.uk&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@ProxysHUB|\ud83d\udea9"
     }
 ]
