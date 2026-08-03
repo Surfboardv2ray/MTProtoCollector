@@ -4,35 +4,38 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "195.26.387-44qavi.ir.",
-            "port": "8443",
-            "secret": "ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "31.41.33.114",
+            "port": "443",
+            "secret": "eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275",
+            "channel": "@flat447",
+            "name": "@ProxysHUB|\ud83c\uddf5\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=195.26.387-44qavi.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275&@ProxysHUB|\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ajab.chiziye.in.imtproxy-ir.online.",
-            "port": "8443",
-            "secret": "ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
+            "server": "94.156.102.150",
+            "port": "443",
+            "secret": "eee4d54b1209125ccba7199fbbe0ff76896769746875622e636f6d",
+            "channel": "@flat447",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=ajab.chiziye.in.imtproxy-ir.online.&port=8443&secret=ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=94.156.102.150&port=443&secret=eee4d54b1209125ccba7199fbbe0ff76896769746875622e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "bia.berim.zelengiding.ir.",
-            "port": "8443",
-            "secret": "ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "135.181.74.178",
+            "port": "443",
+            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+            "channel": "@flat447",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=bia.berim.zelengiding.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
