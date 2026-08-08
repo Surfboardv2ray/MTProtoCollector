@@ -4,11 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cstudio.semiconductor.mistloop.ir",
+            "server": "91.84.106.183",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d",
             "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=cstudio.semiconductor.mistloop.ir&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=91.84.106.183&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "146.103.112.136",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=146.103.112.136&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
