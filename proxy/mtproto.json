@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "iran.click-master.co.uk",
+            "server": "adn-stg.yourservice.janosup.ir",
             "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=iran.click-master.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=adn-stg.yourservice.janosup.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "qadim.zhigool.co.uk",
-            "port": "22",
-            "secret": "EERighJJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83d\udea9"
+            "server": "nachrichten.dripflux.ir.",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=nachrichten.dripflux.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "bastani.mikham.co.uk",
-            "port": "8443",
-            "secret": "EERighJJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+            "server": "51.77.186.38",
+            "port": "8080",
+            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=51.77.186.38&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
     }
 ]
