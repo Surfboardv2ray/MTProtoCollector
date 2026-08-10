@@ -4,23 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "65.109.194.32",
-            "port": "300",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "87.248.129.53",
+            "port": "15",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=65.109.194.32&port=300&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=87.248.129.53&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "nice-product.digikallamall.ir.",
+            "server": "2.27.12.116",
             "port": "443",
-            "secret": "7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t",
-            "name": "@ProxysHUB|\ud83c\uddec\ud83c\udde7"
+            "secret": "7hkTDGlc9pnZP1ox7POA1EJtdC5za290b2Jhei5ydQ",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=nice-product.digikallamall.ir.&port=443&secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t&@ProxysHUB|\ud83c\uddec\ud83c\udde7"
+        "link": "https:\/\/t.me\/proxy?server=2.27.12.116&port=443&secret=7hkTDGlc9pnZP1ox7POA1EJtdC5za290b2Jhei5ydQ&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
