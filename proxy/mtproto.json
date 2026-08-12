@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "bastani.mikham.co.uk",
-            "port": "8443",
-            "secret": "EERighJJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+            "server": "idiot.foltmeingop.co.uk",
+            "port": "8880",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "46.62.247.86",
-            "port": "443",
-            "secret": "dd79e7010200010007f0030386e24c3add",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "acela.proxy.rlwy.net",
+            "port": "42836",
+            "secret": "f4c5e3efa29c2c848c5eb996c3559994",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=46.62.247.86&port=443&secret=dd79e7010200010007f0030386e24c3add&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=acela.proxy.rlwy.net&port=42836&secret=f4c5e3efa29c2c848c5eb996c3559994&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.167.48.67",
-            "port": "443",
-            "secret": "dd79e7010200010007f0030386e24c3add",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "flux.lavazemi5.co.uk",
+            "port": "2096",
+            "secret": "79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=89.167.48.67&port=443&secret=dd79e7010200010007f0030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     }
 ]
