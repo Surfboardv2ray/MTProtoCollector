@@ -4,23 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "acela.proxy.rlwy.net",
-            "port": "42836",
-            "secret": "f4c5e3efa29c2c848c5eb996c3559994",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "p7c3a1b2-d4e5-f6a7-b8c9-d0e1f2a3b4c5-1a2b-3c4d.space",
+            "port": "80",
+            "secret": "eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=acela.proxy.rlwy.net&port=42836&secret=f4c5e3efa29c2c848c5eb996c3559994&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=p7c3a1b2-d4e5-f6a7-b8c9-d0e1f2a3b4c5-1a2b-3c4d.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "flux.lavazemi5.co.uk",
-            "port": "2096",
-            "secret": "79e344818749bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "altaria.proxy.rlwy.net",
+            "port": "27894",
+            "secret": "eeaabbccddeeff0011223344556677aa",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=altaria.proxy.rlwy.net&port=27894&secret=eeaabbccddeeff0011223344556677aa&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
