@@ -4,23 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "2.144.22.129",
-            "port": "443",
-            "secret": "dd71a4b6270eae005e0cd3d99fe5809522",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "altaria.proxy.rlwy.net",
+            "port": "27894",
+            "secret": "eeaabbccddeeff0011223344556677aa",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=2.144.22.129&port=443&secret=dd71a4b6270eae005e0cd3d99fe5809522&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "gold.lavazemi4.co.uk",
-            "port": "2096",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=altaria.proxy.rlwy.net&port=27894&secret=eeaabbccddeeff0011223344556677aa&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
