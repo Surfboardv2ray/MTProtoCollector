@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "evening.whiteproxy.baby",
-            "port": "443",
-            "secret": "ddc27a8e4e92e2ad536c3f80d7c0809ef8",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=evening.whiteproxy.baby&port=443&secret=ddc27a8e4e92e2ad536c3f80d7c0809ef8&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "bia.guguli.co.uk",
+            "server": "iran.click-master.co.uk",
             "port": "443",
             "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
             "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=bia.guguli.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=iran.click-master.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "we.wrenshire.co.uk",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "qadim.zhigool.co.uk",
+            "port": "22",
+            "secret": "EERighJJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83d\udea9"
         },
-        "link": "https:\/\/t.me\/proxy?server=we.wrenshire.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83d\udea9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "bastani.mikham.co.uk",
+            "port": "8443",
+            "secret": "EERighJJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=bastani.mikham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddf1\ud83c\uddf9"
     }
 ]
