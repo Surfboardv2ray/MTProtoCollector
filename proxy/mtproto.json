@@ -4,35 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "11837687790.ir.meli-n13.info",
+            "server": "www.33-74www.ir.",
             "port": "8443",
-            "secret": "104462821249bd7ac519130220c25d09\ud83c\udde9\ud83c\uddea[PROXY",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=11837687790.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09\ud83c\udde9\ud83c\uddea[PROXY&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=www.33-74www.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "11837687790.ir.meli-n13.info",
-            "port": "8443",
-            "secret": "104462821249bd7ac519130220c25d09\ud83c\udde9\ud83c\uddea",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=11837687790.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09\ud83c\udde9\ud83c\uddea&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "hak.pon.dotadotnet2.ir",
+            "server": "admetrics.uadapp.meshzen.ir",
             "port": "443",
-            "secret": "dd79e7010200010007f0030386e24c3add",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=hak.pon.dotadotnet2.ir&port=443&secret=dd79e7010200010007f0030386e24c3add&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=admetrics.uadapp.meshzen.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
