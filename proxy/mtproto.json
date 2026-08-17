@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "204.168.148.176",
-            "port": "8585",
-            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ",
+            "server": "halim.nazri.info",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=204.168.148.176&port=8585&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=halim.nazri.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "5xxlfa.mnbtm.li",
-            "port": "8080",
-            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+            "server": "15666777764667.ir.meli-n13.info",
+            "port": "8443",
+            "secret": "104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=5xxlfa.mnbtm.li&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=15666777764667.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ir.trust.me.mnbtm.li",
-            "port": "8880",
-            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+            "server": "neshane-rah.simbol.info",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=ir.trust.me.mnbtm.li&port=8880&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ&@ProxysHUB|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=neshane-rah.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
