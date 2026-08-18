@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "nachrichten.dripflux.ir",
+            "server": "ad1.arixo.shop",
             "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e73616d73756e672e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
+            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=nachrichten.dripflux.ir&port=443&secret=ee1603010200010001fc030386e24c3add7777772e73616d73756e672e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "supportsystemstatus.nestxcouk.ir",
+            "server": "ragor-beger.ghamgin.co.im.",
             "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e73616d73756e672e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=supportsystemstatus.nestxcouk.ir&port=443&secret=ee1603010200010001fc030386e24c3add7777772e73616d73756e672e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=ragor-beger.ghamgin.co.im.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Lashboy.muzanesghy.co.uk",
-            "port": "4455",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "Bomba.mokafat.co.uk.",
+            "port": "6550",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=Bomba.mokafat.co.uk.&port=6550&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
