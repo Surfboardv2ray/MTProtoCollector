@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "75pib.life.198-44.ir.",
+            "server": "www.serverfool.ir.",
             "port": "8443",
-            "secret": "ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
+            "secret": "ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d",
             "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=www.serverfool.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.bazbaran-batrane.ir.",
+            "server": "imtproxy-ir.quest.37-68-174.ir.",
             "port": "8443",
-            "secret": "7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+            "secret": "ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
             "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.bazbaran-batrane.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=imtproxy-ir.quest.37-68-174.ir.&port=8443&secret=ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.33-74www.ir.",
+            "port": "8443",
+            "secret": "7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.33-74www.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
