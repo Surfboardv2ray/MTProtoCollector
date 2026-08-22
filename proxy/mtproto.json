@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "noone.lavazemi1.co.uk",
-            "port": "2083",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "82.44-207-58.ir.",
+            "port": "8443",
+            "secret": "7hcBGGq9DqYBIxkuJkNPkaViaXNjb3R0aS55ZWt0YW5ldC5jb20=",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=noone.lavazemi1.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=82.44-207-58.ir.&port=8443&secret=7hcBGGq9DqYBIxkuJkNPkaViaXNjb3R0aS55ZWt0YW5ldC5jb20=&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "flux.lavazemi5.co.uk",
-            "port": "2096",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "www.meshdrip.ir.",
+            "port": "443",
+            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=www.meshdrip.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "rain.lavazemi2.co.uk",
-            "port": "2053",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "www.33-74www.ir.",
+            "port": "8443",
+            "secret": "7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=rain.lavazemi2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=www.33-74www.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
