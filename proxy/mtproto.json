@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.meshdrip.ir.",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "178.83.46.4",
+            "port": "2087",
+            "secret": "ddab53fbc2114f5e4736ded3f361b2f609",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.meshdrip.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=178.83.46.4&port=2087&secret=ddab53fbc2114f5e4736ded3f361b2f609&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.veilhub.ir.",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "178.83.46.4",
+            "port": "2096",
+            "secret": "ddab53fbc2114f5e4736ded3f361b2f609",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.veilhub.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=178.83.46.4&port=2096&secret=ddab53fbc2114f5e4736ded3f361b2f609&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.veildrop.ir.",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "178.83.46.4",
+            "port": "9443",
+            "secret": "ddab53fbc2114f5e4736ded3f361b2f609",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.veildrop.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=178.83.46.4&port=9443&secret=ddab53fbc2114f5e4736ded3f361b2f609&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
