@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "full-vasl.peachsoft.co.uk.",
-            "port": "443",
-            "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "www.vip9.ir.",
+            "port": "8443",
+            "secret": "7mMho4GHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=full-vasl.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.vip9.ir.&port=8443&secret=7mMho4GHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "168.119.142.41",
-            "port": "443",
-            "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "82.44-207-58.ir.",
+            "port": "8443",
+            "secret": "7hcBGGq9DqYBIxkuJkNPkaViaXNjb3R0aS55ZWt0YW5ldC5jb20=",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=168.119.142.41&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=82.44-207-58.ir.&port=8443&secret=7hcBGGq9DqYBIxkuJkNPkaViaXNjb3R0aS55ZWt0YW5ldC5jb20=&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "iran-download.goaphrodite.co.uk.",
+            "server": "www.veildrop.ir.",
             "port": "443",
-            "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=iran-download.goaphrodite.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.veildrop.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
