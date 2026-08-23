@@ -16,23 +16,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.veilhub.ir.",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=www.veilhub.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "www.33-74www.ir.",
+            "server": "www.giftt.ir.",
             "port": "8443",
-            "secret": "7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t",
+            "secret": "7hcBGGq9DqYBIxkuJkNPkaVtZWRpYS5zdGVhbXBvd2VyZWQuY29t",
             "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.33-74www.ir.&port=8443&secret=7hBEBIGHSV36xZoDAiDCXLN3d3cueWFob28uY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=www.giftt.ir.&port=8443&secret=7hcBGGq9DqYBIxkuJkNPkaVtZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
