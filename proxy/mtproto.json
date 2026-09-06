@@ -4,11 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Https.12rk-q140ti.co.uk.",
-            "port": "80",
-            "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+            "server": "lux.lavazemi1.co.uk",
+            "port": "2096",
+            "secret": "ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "vasl-sho.mohearn.co.uk.",
+            "port": "443",
+            "secret": "7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Https.12rk-q140ti.co.uk.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=vasl-sho.mohearn.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ==&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
