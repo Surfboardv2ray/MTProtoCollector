@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "imtproxy-ir.qest.37-68-174.ir.",
-            "port": "8443",
-            "secret": "ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "run.golgoli2.co.uk",
+            "port": "2053",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=imtproxy-ir.qest.37-68-174.ir.&port=8443&secret=ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.basketbalo.ir.",
-            "port": "8443",
-            "secret": "3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "server": "bfesedv.uk.",
+            "port": "4455",
+            "secret": "dd104462821249bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.basketbalo.ir.&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "82.44-207-58.ir.",
+            "server": "ir.makkers.co.uk",
             "port": "8443",
-            "secret": "7hcBGGq9DqYBIxkuJkNPkaViaXNjb3R0aS55ZWt0YW5ldC5jb20=",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "EERighJJvXrFGRMCIMjdCQ",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=82.44-207-58.ir.&port=8443&secret=7hcBGGq9DqYBIxkuJkNPkaViaXNjb3R0aS55ZWt0YW5ldC5jb20=&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
