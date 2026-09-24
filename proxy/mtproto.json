@@ -4,23 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "faq.slamawna.info",
-            "port": "444",
-            "secret": "dd41b712fe12019c64e281bcb6aeccded7",
+            "server": "93.113.230.221",
+            "port": "443",
+            "secret": "dd6a67ae4c2d173b4168745435cb313a39",
             "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "107.161.175.211",
-            "port": "443",
-            "secret": "59e27a5355eb3c57542a00d267ef4af2",
-            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=107.161.175.211&port=443&secret=59e27a5355eb3c57542a00d267ef4af2&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=93.113.230.221&port=443&secret=dd6a67ae4c2d173b4168745435cb313a39&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     }
 ]
