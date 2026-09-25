@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tunf.ipbf.7580.b6.3bj.5nb.ir.",
+            "server": "75pib.life.198-44.ir.",
             "port": "8443",
-            "secret": "7mMho4GHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=tunf.ipbf.7580.b6.3bj.5nb.ir.&port=8443&secret=7mMho4GHSV36xZoDAiDCXY5tZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "7jv.lhi.at6.vzt.7mj.ir.",
+            "server": "www.5gq.ir.",
             "port": "8443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAABtZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+            "secret": "7nnjRIGHSb16xRkTAiDCXQltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=7jv.lhi.at6.vzt.7mj.ir.&port=8443&secret=7gAAAAAAAAAAAAAAAAAAAABtZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=www.5gq.ir.&port=8443&secret=7nnjRIGHSb16xRkTAiDCXQltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.wwwl0.ir.",
+            "port": "443",
+            "secret": "ee1603048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.wwwl0.ir.&port=443&secret=ee1603048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
     }
 ]
