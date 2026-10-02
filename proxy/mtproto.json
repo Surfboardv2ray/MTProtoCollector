@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "dh1.masi.ir.he6fhd.ru",
+            "server": "nakoshimon-jomong.lolauth.info",
             "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "1603010200010001fc030386e24c3add",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=dh1.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "731.masi.ir.he6fhd.ru",
+            "server": "last-of-you.sillakhor.info",
             "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "1603010200010001fc030386e24c3add",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\udded"
         },
-        "link": "https:\/\/t.me\/proxy?server=731.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde8\ud83c\udded"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "17fh.masi.ir.he6fhd.ru",
+            "server": "ssd-hdd-nvme.sillakhor.info",
             "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "1603010200010001fc030386e24c3add",
+            "name": "@ProxysHUB|\ud83c\udde8\ud83c\udded"
         },
-        "link": "https:\/\/t.me\/proxy?server=17fh.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=ssd-hdd-nvme.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde8\ud83c\udded"
     }
 ]
