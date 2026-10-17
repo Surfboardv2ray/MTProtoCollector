@@ -4,35 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.77-35-93-6.ir.",
+            "server": "play.goole.com.craj.ir",
             "port": "8443",
-            "secret": "3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.77-35-93-6.ir.&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=play.goole.com.craj.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "vgyj.ir.ir.ir.meli-n12.info",
+            "server": "digikala.com.torob.ir.divar.ir.basalam.com.eyfst.ir",
             "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=vgyj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "llllgb6.masi.ir.he6fhd.ru",
-            "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=llllgb6.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=digikala.com.torob.ir.divar.ir.basalam.com.eyfst.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
