@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "hibf6.ir.lpfss.co.uk.i9l9.ir.",
+            "server": "pashmak.mikhay.co.uk",
             "port": "8443",
-            "secret": "7hYDAQIAAQAB_AMEhuJMOt0",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "EERighJJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=hibf6.ir.lpfss.co.uk.i9l9.ir.&port=8443&secret=7hYDAQIAAQAB_AMEhuJMOt0&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=pashmak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "foc.pf.og.mro.7f.j7.spb.f.lwww.ir.",
+            "server": "boro.poolaki.co.uk",
             "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "secret": "EERighJJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=foc.pf.og.mro.7f.j7.spb.f.lwww.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=boro.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "tig.ofok.tui.frt.7fg7.88n.jananeman.ir.",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "server": "monaliiiz.www.n.hamintori.co.uk",
+            "port": "443",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=tig.ofok.tui.frt.7fg7.88n.jananeman.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=monaliiiz.www.n.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
