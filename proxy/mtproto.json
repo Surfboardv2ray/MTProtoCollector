@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "rond-hamrahaval.ebimarh.info",
-            "port": "8443",
-            "secret": "1603010200010001fc030386e24c3add",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "sepknown-tu1.seyhello.my.id",
+            "port": "8044",
+            "secret": "64fd650b5b50ea0836d38f98076fea99",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=sepknown-tu1.seyhello.my.id&port=8044&secret=64fd650b5b50ea0836d38f98076fea99&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "team-daemi.barekatbashe.info",
-            "port": "8443",
-            "secret": "1603010200010001fc030386e24c3add",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "sepknown-tu1.seyhello.my.id",
+            "port": "8044",
+            "secret": "ee64fd650b5b50ea0836d38f98076fea99",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=sepknown-tu1.seyhello.my.id&port=8044&secret=ee64fd650b5b50ea0836d38f98076fea99&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "manager-add.sillakhor.info",
-            "port": "8443",
-            "secret": "1603010200010001fc030386e24c3add",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "sepknown-tu1.seyhello.my.id",
+            "port": "8044",
+            "secret": "dd64fd650b5b50ea0836d38f98076fea99",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=sepknown-tu1.seyhello.my.id&port=8044&secret=dd64fd650b5b50ea0836d38f98076fea99&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     }
 ]
