@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cloudflare.irnick.com.coldkeyw.co.uk",
-            "port": "443",
-            "secret": "7l984oosSBbGySPf1NVjDgE=",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "mosabeghe.khodkarbic.info",
+            "port": "8443",
+            "secret": "1603010200010001fc030386e24c3add",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.irnick.com.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=mosabeghe.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.cloudflare.com.coldkeyw.co.uk",
-            "port": "443",
-            "secret": "7l984oosSBbGySPf1NVjDgE=",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "se.anotelinopalk.co.uk",
+            "port": "8880",
+            "secret": "79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.cloudflare.com.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=se.anotelinopalk.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "good.cipservice.co.uk",
+            "port": "2083",
+            "secret": "79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=good.cipservice.co.uk&port=2083&secret=79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     }
 ]
