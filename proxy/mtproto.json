@@ -4,6 +4,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "checkout.steampower.online",
+            "port": "3864",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=checkout.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "a.similemat.com",
             "port": "12341",
             "secret": "4170ef4862902c504d0e3e8c38d5fa24",
@@ -18,21 +30,9 @@
         "query": {
             "server": "a.similemat.com",
             "port": "12341",
-            "secret": "da8f9a1dc63a4d4103bae097b17d259d",
+            "secret": "8265008ae7561b10a83edb6c77730224",
             "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=da8f9a1dc63a4d4103bae097b17d259d&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Dho.phd.iv.md.h.g.if.7.www1www.ir.",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=Dho.phd.iv.md.h.g.if.7.www1www.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=8265008ae7561b10a83edb6c77730224&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
