@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "188.206-197-43.ir.",
-            "port": "8443",
-            "secret": "3RBEBIGHSV36xZoDAiDCXLM",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "a.similemat.com",
+            "port": "12341",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=188.206-197-43.ir.&port=8443&secret=3RBEBIGHSV36xZoDAiDCXLM&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir.",
+            "server": "178.105.127.56",
             "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "secret": "104462821249bd7ac519130220c8dd09",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=178.105.127.56&port=8443&secret=104462821249bd7ac519130220c8dd09&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "crash.steampower.online",
-            "port": "3864",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "a.similemat.com",
+            "port": "12341",
+            "secret": "0b1b64c58a9de7d31a290d2d7f10ae1d",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=crash.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=0b1b64c58a9de7d31a290d2d7f10ae1d&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
