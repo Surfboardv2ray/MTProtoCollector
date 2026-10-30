@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "188.206-197-43.ir.",
+            "port": "8443",
+            "secret": "3RBEBIGHSV36xZoDAiDCXLM",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=188.206-197-43.ir.&port=8443&secret=3RBEBIGHSV36xZoDAiDCXLM&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir.",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "crash.steampower.online",
             "port": "3864",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=crash.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "foc.pf.og.mro.7f.j7.spb.f.lwww.ir.",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=foc.pf.og.mro.7f.j7.spb.f.lwww.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Dho.phd.iv.md.h.g.if.7.www1www.ir.",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=Dho.phd.iv.md.h.g.if.7.www1www.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
