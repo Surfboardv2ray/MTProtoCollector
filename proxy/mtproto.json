@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "porsorate.co.uk",
-            "port": "4455",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "a.similemat.com",
+            "port": "443",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "ir.lv223.info",
-            "port": "8443",
-            "secret": "EERighJJvXrFGRMCIMjdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "a.similemat.com",
+            "port": "12341",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cdn1.graduat.co.uk",
-            "port": "8443",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "a.similemat.com",
+            "port": "12341",
+            "secret": "2894337915296d46b4696492e79c8833",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=cdn1.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=2894337915296d46b4696492e79c8833&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
