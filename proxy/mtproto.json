@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "love.roseprox.xyz",
-            "port": "2096",
-            "secret": "ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "a.similemat.com",
+            "port": "443",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -30,9 +30,9 @@
         "query": {
             "server": "a.similemat.com",
             "port": "12341",
-            "secret": "703c0694d0b758d88ca8f471684dd951",
+            "secret": "e94c94bac02583a0a5c70988187b4178",
             "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=703c0694d0b758d88ca8f471684dd951&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=e94c94bac02583a0a5c70988187b4178&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
