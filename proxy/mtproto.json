@@ -5,22 +5,34 @@
         "path": "\/proxy",
         "query": {
             "server": "a.similemat.com",
-            "port": "12341",
-            "secret": "9eddd844d6f2ce40cae6a0b3757aad4d",
+            "port": "443",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
             "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=9eddd844d6f2ce40cae6a0b3757aad4d&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "boro.poolaki.co.uk",
-            "port": "8443",
-            "secret": "EERighJJvXrFGRMCIMJdCQ",
-            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+            "server": "a.similemat.com",
+            "port": "12341",
+            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=boro.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "a.similemat.com",
+            "port": "12341",
+            "secret": "a35b76074455877aac9959849f5e0c71",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=a35b76074455877aac9959849f5e0c71&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
