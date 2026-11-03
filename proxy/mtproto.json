@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "a.similemat.com",
-            "port": "443",
-            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "mio.miosen.cyou",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=mio.miosen.cyou&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "a.similemat.com",
-            "port": "12341",
-            "secret": "4170ef4862902c504d0e3e8c38d5fa24",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "name.namenewok.info",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=name.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "a.similemat.com",
-            "port": "12341",
-            "secret": "a35b76074455877aac9959849f5e0c71",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "see.ketab.info",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ\ud83d\udd34",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=a35b76074455877aac9959849f5e0c71&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=see.ketab.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ\ud83d\udd34&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
