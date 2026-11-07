@@ -4,35 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "kgs.steampower.online",
-            "port": "3864",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ.",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=kgs.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ.&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "crash.steampower.online",
-            "port": "3864",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ.",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=crash.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ.&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "www.cloudflare.maroochia.co.uk",
+            "server": "138.201.157.70",
             "port": "443",
-            "secret": "7l984oosSBbGySPf1NVjDgE=",
+            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.cloudflare.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=138.201.157.70&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Gos.8f.dk.euv.4h.d.kw.68-309-27-46.ir.",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Gos.8f.dk.euv.4h.d.kw.68-309-27-46.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "partnerupload.steampower.online",
+            "port": "3864",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ.",
+            "name": "@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=partnerupload.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ.&@ProxysHUB|\ud83c\uddeb\ud83c\uddee"
     }
 ]
