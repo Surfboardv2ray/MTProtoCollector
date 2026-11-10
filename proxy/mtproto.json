@@ -4,23 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.com.maroochia.co.uk",
+            "server": "shop.onlin.coldkeyw.co.uk",
             "port": "443",
             "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.com.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=shop.onlin.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "a.similemat.com",
-            "port": "12341",
-            "secret": "39f0cd7547e75c42f90c1e341e68272d",
-            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+            "server": "monaliiiz.www.n.hamintori.co.uk",
+            "port": "443",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=a.similemat.com&port=12341&secret=39f0cd7547e75c42f90c1e341e68272d&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=monaliiiz.www.n.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
