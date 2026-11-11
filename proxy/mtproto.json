@@ -4,35 +4,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "5.75.226.255",
-            "port": "75",
-            "secret": "ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
+            "server": "dash.cloudflare.maroochia.co.uk",
+            "port": "443",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=dash.cloudflare.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "46.225.35.245",
+            "server": "www.cloudflare.maroochia.co.uk",
             "port": "443",
-            "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=46.225.35.245&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "awd.subaru-volga.com",
-            "port": "443",
-            "secret": "ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
-            "name": "@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c&@ProxysHUB|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=www.cloudflare.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
