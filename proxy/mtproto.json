@@ -4,24 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "walter.hetzner.ir.downloder.co.uk",
-            "port": "8443",
-            "secret": "7l984oosSBbGySPf1NVjDgE=",
-            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+            "server": "194.60.228.66",
+            "port": "8880",
+            "secret": "dd79e344818749bd7ac519130220c25d09",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=walter.hetzner.ir.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=194.60.228.66&port=8880&secret=dd79e344818749bd7ac519130220c25d09&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cloudflare.dash.com.coldkeyw.co.uk",
+            "server": "monaliiiz.www.n.hamintori.co.uk",
             "port": "443",
-            "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.dash.com.coldkeyw.co.uk&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=monaliiiz.www.n.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
