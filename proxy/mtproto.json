@@ -4,23 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "arvan.cloud.w.downloder.co.uk",
+            "server": "walter.hetzner.ir.downloder.co.uk",
             "port": "8443",
             "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=arvan.cloud.w.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=walter.hetzner.ir.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.yaho.com.maroochia.co.uk",
+            "server": "cloudflare.dash.com.coldkeyw.co.uk",
             "port": "443",
-            "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01ddddddd",
+            "secret": "ee5f7ce28a2c4816c6c923dfd4d5630e01",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.yaho.com.maroochia.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01ddddddd&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.dash.com.coldkeyw.co.uk&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "nim.server.irnick.downloder.co.uk",
+            "port": "8443",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
+            "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=nim.server.irnick.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
