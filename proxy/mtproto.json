@@ -16,23 +16,23 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "dash.cloud.flare.squadgame.co.uk",
+            "server": "namserver.cloud.ir.downloder.co.uk",
             "port": "8443",
-            "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01",
+            "secret": "7l984oosSBbGySPf1NVjDgE=",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=dash.cloud.flare.squadgame.co.uk&port=8443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=namserver.cloud.ir.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "cloudflare.weed.squadgame.co.uk",
-            "port": "8443",
-            "secret": "EE5f7ce28a2c4816c6c923dfd4d5630e01",
+            "server": "hamrah.bank.ir.hamintori.co.uk",
+            "port": "443",
+            "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01dd",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.weed.squadgame.co.uk&port=8443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=hamrah.bank.ir.hamintori.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01dd&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
     }
 ]
