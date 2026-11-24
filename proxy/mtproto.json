@@ -4,11 +4,35 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "hamrah.bank.ir.hamintori.co.uk",
-            "port": "443",
-            "secret": "dd5f7ce28a2c4816c6c923dfd4d5630e01dd",
+            "server": "85.133.200.48",
+            "port": "8880",
+            "secret": "3RYDAQIAAQAB_AMDhuJMOt0",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=85.133.200.48&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "sevenonline.mobovin.ir",
+            "port": "8443",
+            "secret": "1603010200010001fc030386e24c3add",
             "name": "@ProxysHUB|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=hamrah.bank.ir.hamintori.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01dd&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=sevenonline.mobovin.ir&port=8443&secret=1603010200010001fc030386e24c3add&@ProxysHUB|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "87.248.144.60",
+            "port": "2053",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
     }
 ]
