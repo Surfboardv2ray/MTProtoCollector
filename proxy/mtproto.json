@@ -4,35 +4,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "194.60.228.93",
-            "port": "8880",
-            "secret": "79e344818749bd7ac519130220c25d0959.[PROXY",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+            "server": "maple.velvetwindow.cc",
+            "port": "443",
+            "secret": "eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363",
+            "name": "@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=194.60.228.93&port=8880&secret=79e344818749bd7ac519130220c25d0959.[PROXY&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "91.234.147.7.aprawood.ir",
-            "port": "2020",
-            "secret": "0000000000000000000000000000000060.[PROXY",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=91.234.147.7.aprawood.ir&port=2020&secret=0000000000000000000000000000000060.[PROXY&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "91.234.147.10",
-            "port": "2020",
-            "secret": "00000000000000000000000000000000",
-            "name": "@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=91.234.147.10&port=2020&secret=00000000000000000000000000000000&@ProxysHUB|\ud83c\uddee\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=maple.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363&@ProxysHUB|\ud83c\uddfa\ud83c\uddf8"
     }
 ]
